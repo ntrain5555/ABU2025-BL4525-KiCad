@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Local")(type "KiCad")(uri "${KIPRJMOD}/Local.kicad_sym")(options "")(descr ""))
+  (lib (name "Transistor_Project")(type "KiCad")(uri "${KIPRJMOD}/Transistor_Project.kicad_sym")(options "")(descr ""))
+  (lib (name "Motor_Project")(type "KiCad")(uri "${KIPRJMOD}/Motor_Project.kicad_sym")(options "")(descr ""))
+)
